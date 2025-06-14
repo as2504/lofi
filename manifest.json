@@ -2,7 +2,7 @@
   "name": "Pixel Lofi Beats",
   "short_name": "Lofi Player",
   "description": "Pixel art lofi beats player with multiple streams",
-  "start_url": "/",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#16213e",
   "theme_color": "#16213e",
